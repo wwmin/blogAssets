@@ -1,3 +1,9 @@
+---
+title: Vue.js -- 60分钟快速入门
+date: 2017-01-03 13:40:14
+tags: vue
+---
+
 ## Vue.js -- 60分钟快速入门
 > [vue 官方指导]( http://rc.vuejs.org/guide/) http://rc.vuejs.org/guide/
 Vue.js是当下很火的一个JavaScript MVVM库，它是以数据驱动和组件化的思想构建的。相比于Angular.js，Vue.js提供了更加简洁、更易于理解的API，使得我们能够快速地上手并使用Vue.js。
