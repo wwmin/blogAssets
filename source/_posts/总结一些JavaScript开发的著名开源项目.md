@@ -3,7 +3,7 @@ title: 总结一些JavaScript开发的著名开源项目
 date: 2017-02-06 23:39:28
 tags: javascript
 ---
-# 总结一些JavaScript开发的著名开源项目[转]
+# 总结一些JavaScript开发的著名开源项目[持续更新]
 1. [ggraph]() - 图形可视化的凌乱数据
 
 这是一个建立在D3之上的库，目的是改进我们如何处理大型和凌乱的图形。 它扩展了节点和链路与节点组的概念。 它非常适用于当多个节点事实上是同一事物或属于同一组时。
@@ -226,4 +226,9 @@ db.replicate.to('http://example.com/mydb');
 
 ![Process listing](http://7xt8vj.com1.z0.glb.clouddn.com/PM2.png)
 
-> 转载自CTOLib.com
+43. [http://plugins.krajee.com/file-input](http://plugins.krajee.com/) 文件上传jquery插件
+
+![input upload](http://7xt8vj.com1.z0.glb.clouddn.com/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0jquery%E6%8F%92%E4%BB%B6.png)
+
+> [Krajee JQuery Plugins](http://plugins.krajee.com)A collection of useful JQuery and Bootstrap plugins for web development.
+  一个好多使用工具的网站
